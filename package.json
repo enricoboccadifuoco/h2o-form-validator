@@ -1,6 +1,6 @@
 {
   "name": "@enricoboccadifuoco/h2o-form-validator",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "H2o form validator is a simple and tiny form validation library, 3KB minified",
   "repository": {
     "type": "git",

@@ -2,7 +2,8 @@
 
 H2o form validator is a simple and tiny form validation library, 3KB minified, no dependecies.
 
-## Install
+## Install
+
 ```
 npm i @enricoboccadifuoco/h2o-form-validator
 ```

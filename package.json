@@ -1,0 +1,24 @@
+{
+  "name": "@enricoboccadifuoco/h2o-form-validator",
+  "version": "0.0.1",
+  "description": "H2o form validator is a simple and tiny form validation library, 3KB minified",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enricoboccadifuoco/h2o-form-validator.git"
+  },
+  "main": "./dist/h2o-form-validator.js",
+  "author": "Enrico Boccadifuoco <boccadifuoco@gmail.com>, Andrea Carraro <hi@andreacarraro.it>",
+  "license": "ISC",
+  "scripts": {
+    "version": "git add package.json",
+    "postversion": "git push && git push --tags"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.7.0",
+    "grunt-contrib-copy": "^0.8.1",
+    "grunt-contrib-jshint": "^0.11.3",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}

@@ -1,3 +1,5 @@
+# NOTE: this project was developer more than 3 years ago but it's recently published ;)
+
 # H2o form validator
 
 H2o form validator is a simple and tiny form validation library, 3KB minified, no dependecies.

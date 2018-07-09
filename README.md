@@ -1,4 +1,4 @@
-# NOTE: this project was developer more than 3 years ago but it's recently published ;)
+# NOTE: this project was developed more than 3 years ago but it's just recently published ;)
 
 # H2o form validator
 
